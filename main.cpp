@@ -9,5 +9,7 @@ int main(){
 		cout << "esto es menor que  6";
     }
 
+    fdjgkhdfjkg djhghjhdsgf dhg 
+
     return 0;
 }
