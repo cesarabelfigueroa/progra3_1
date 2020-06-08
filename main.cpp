@@ -9,11 +9,7 @@ int main(){
 		cout << "esto es menor que  6";
     }
 
-<<<<<<< HEAD
-    fdjgkhdfjkg djhghjhdsgf dhg 
 
-=======
 	cout << "hello there";
->>>>>>> a698b0f159ab164cb1a9786b6e80114808e5a33d
     return 0;
 }
